@@ -6,3 +6,12 @@ I’m Mukesh Murugan, a Software Engineer based in Trivandrum, Kerala specializi
 - 🤔 I’m pretty active on [twitter](https://twitter.com/iammukeshm).
 - 📫 Connect and reach me on [LinkedIn](https://www.linkedin.com/in/iammukeshm).
 - 😄 Pronouns: he/him/his
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iammukeshm" alt="iammukeshm" /> </p>
+
+<p align="left">  
+  <img src="https://github-readme-stats.vercel.app/api?username=iammukeshm&show_icons=false" alt="iammukeshm" />
+ </p>
+
+
+
