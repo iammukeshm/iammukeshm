@@ -2,7 +2,7 @@
 
 I’m Mukesh Murugan, a Software Engineer based in Trivandrum, Kerala specializing in building Web Applications, APIs and Desktop Application using (ASP).NET Core and related Stack with Clean Architecture.
 
-- 😎 Currently working on [ASP.NET Core 5.0 (MVC & WebAPI) Clean Architecture Boilerplate](https://github.com/aspnetcorehero/Boilerplate)
+- 😎 Currently working on [Blazor Hero - Clean Architecture Boilerplate For Blazor WASM 5.0 ](https://github.com/blazorhero/CleanArchitecture)
 - 🌱 I write detailed articles, tutorials and guides for ASP.NET Core at my blog [codewithmukesh](http://www.codewithmukesh.com).
 - 🤔 I’m pretty active on [twitter](https://twitter.com/iammukeshm).
 - 📫 Connect and reach me on [LinkedIn](https://www.linkedin.com/in/iammukeshm).
