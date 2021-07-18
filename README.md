@@ -44,7 +44,7 @@ I always make sure that I find enough time for open source contribution that als
 - 📝 I blog here: http://codewithmukesh.com/
 - 📫 Follow me on Twitter [@iammukeshm](https://twitter.com/iammukeshm) / [@codewithmukesh](https://twitter.com/codewithmukesh)
 - 🦸 Endorse me / Leave a Recommendation on Linkedin [@iammukeshm](https://www.linkedin.com/in/iammukeshm/)
-- 🦸 Career Aim - Work Abroad, Probably in Singapore / UK with a global team for a cool Product! 
+- 🦸 Career Aim - Work Abroad, Probably in Singapore / Europe with a global team for a cool Product! 
 
 ---
 
