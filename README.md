@@ -27,7 +27,7 @@
 
 I always make sure that I find enough time for open source contribution that also helps me expand my knowledge and work with other developers and team globally.
 
-- 💥 [fluentPOS](https://github.com/fluentpos/fluentpos): Open Source Point Of Sales / Inventory Management Solution built with ASP.NET Core 5.0 WebAPI & Angular 12 Material
+- 💥 [fullstackhero](https://github.com/fullstackhero/): Collection of Enterprise Level Boilerplates for Modern Web Applications that gets you started with premium application development in no-time!
 - 🛒 [Blazor Hero](https://github.com/blazorhero/CleanArchitecture): BlazorHero is a Clean Architecture Solution Template for Blazor Webassembly 5.0 built with MudBlazor Components.
 - 📬 [Clean Architecture - WebApi Solution Template for ASP.NET Core](https://github.com/iammukeshm/CleanArchitecture.WebApi): An Implementation of Clean Architecture with ASP.NET Core 3.1 WebApi. With this Open-Source BoilerPlate Template, you will get access to the world of Loosely-Coupled and Inverted-Dependency Architecture in ASP.NET Core 3.1 WebApi with a lot of best practices.
 - 🥇 and tons of other repositories that are linked to each of my blogposts.
