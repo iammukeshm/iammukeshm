@@ -1,0 +1,20 @@
+name: Latest blog posts
+on:
+  schedule:
+    - cron: '0 */6 * * *' # Every 6 hours
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://codewithmukesh.com/rss.xml"
+          max_post_count: 5
+          template: "$newline- [$title]($url)"
+          commit_message: "docs: update README with latest blog posts"
