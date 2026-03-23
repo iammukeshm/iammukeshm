@@ -117,15 +117,27 @@ I believe quality education should be free. These courses have helped thousands 
 
 ### Featured Projects
 
-<a href="https://github.com/codewithmukesh/dotnet-webapi-zero-to-hero-course">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=codewithmukesh&repo=dotnet-webapi-zero-to-hero-course&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/codewithmukesh/dotnet-claude-kit">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=codewithmukesh&repo=dotnet-claude-kit&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/fullstackhero/dotnet-starter-kit">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fullstackhero&repo=dotnet-starter-kit&theme=tokyonight&hide_border=true" />
-</a>
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/codewithmukesh/dotnet-webapi-zero-to-hero-course">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=codewithmukesh&repo=dotnet-webapi-zero-to-hero-course&theme=tokyonight&hide_border=true" width="100%" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/codewithmukesh/dotnet-claude-kit">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=codewithmukesh&repo=dotnet-claude-kit&theme=tokyonight&hide_border=true" width="100%" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/fullstackhero/dotnet-starter-kit">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fullstackhero&repo=dotnet-starter-kit&theme=tokyonight&hide_border=true" width="50%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
