@@ -109,11 +109,11 @@ I believe quality education should be free. These courses have helped thousands 
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Seeding Initial Data in EF Core 10 - HasData vs UseSeeding](https://codewithmukesh.com/blog/seeding-initial-data-efcore/)
 - [Multiple DbContext in EF Core 10 - Scenarios, Setup &amp; Migrations](https://codewithmukesh.com/blog/multiple-dbcontext-efcore/)
 - [ASP.NET Core 10 Web API CRUD with EF Core - Complete .NET 10 Tutorial](https://codewithmukesh.com/blog/aspnet-core-webapi-crud-with-entity-framework-core-full-course/)
 - [Bulk Operations in EF Core 10 - Benchmarking Insert, Update, and Delete Strategies](https://codewithmukesh.com/blog/bulk-operations-efcore/)
-- [Soft Deletes in EF Core 10 - Interceptors, Named Filters &amp; Cascade Delete](https://codewithmukesh.com/blog/soft-deletes-efcore/)
-- [Global Query Filters in EF Core - Soft Delete, Multi-Tenancy &amp; Named Filters in .NET 10](https://codewithmukesh.com/blog/global-query-filters-efcore/)<!-- BLOG-POST-LIST:END -->
+- [Soft Deletes in EF Core 10 - Interceptors, Named Filters &amp; Cascade Delete](https://codewithmukesh.com/blog/soft-deletes-efcore/)<!-- BLOG-POST-LIST:END -->
 
 ▶ [...more articles on codewithmukesh.com](https://codewithmukesh.com/blog/)
 
