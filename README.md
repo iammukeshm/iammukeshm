@@ -117,17 +117,14 @@ I believe quality education should be free. These courses have helped thousands 
 
 ### Featured Projects
 
-<a href="https://github.com/fullstackhero/dotnet-starter-kit">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fullstackhero&repo=dotnet-starter-kit&theme=tokyonight&hide_border=true" />
-</a>
 <a href="https://github.com/codewithmukesh/dotnet-webapi-zero-to-hero-course">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=codewithmukesh&repo=dotnet-webapi-zero-to-hero-course&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/codewithmukesh/claude-code-for-dotnet-developers">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=codewithmukesh&repo=claude-code-for-dotnet-developers&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/codewithmukesh/dotnet-claude-kit">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=codewithmukesh&repo=dotnet-claude-kit&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/codewithmukesh/aws-for-dotnet-developers-course">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=codewithmukesh&repo=aws-for-dotnet-developers-course&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/fullstackhero/dotnet-starter-kit">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fullstackhero&repo=dotnet-starter-kit&theme=tokyonight&hide_border=true" />
 </a>
 
 ---
