@@ -109,11 +109,11 @@ I believe quality education should be free. These courses have helped thousands 
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CQRS with MediatR in ASP.NET Core - Complete Guide](https://codewithmukesh.com/blog/cqrs-and-mediatr-in-aspnet-core/)
 - [Tracking vs. No-Tracking Queries in EF Core 10 - When to Use Each](https://codewithmukesh.com/blog/tracking-vs-no-tracking-queries-efcore/)
 - [Anatomy of a Claude Code Session - What Happens Under the Hood](https://codewithmukesh.com/blog/anatomy-claude-code-session/)
 - [45 .NET Web API Interview Questions That Actually Get Asked in 2026](https://codewithmukesh.com/blog/dotnet-webapi-interview-questions/)
-- [Seeding Initial Data in EF Core 10 - HasData vs UseSeeding](https://codewithmukesh.com/blog/seeding-initial-data-efcore/)
-- [Multiple DbContext in EF Core 10 - Scenarios, Setup &amp; Migrations](https://codewithmukesh.com/blog/multiple-dbcontext-efcore/)<!-- BLOG-POST-LIST:END -->
+- [Seeding Initial Data in EF Core 10 - HasData vs UseSeeding](https://codewithmukesh.com/blog/seeding-initial-data-efcore/)<!-- BLOG-POST-LIST:END -->
 
 ▶ [...more articles on codewithmukesh.com](https://codewithmukesh.com/blog/)
 
