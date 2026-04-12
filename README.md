@@ -109,11 +109,11 @@ I believe quality education should be free. These courses have helped thousands 
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Build Your Own CQRS Dispatcher in .NET 10 &lpar;No MediatR&rpar;](https://codewithmukesh.com/blog/cqrs-without-mediatr/)
 - [Anatomy of the .claude Folder - Every File Explained &lpar;2026&rpar;](https://codewithmukesh.com/blog/anatomy-of-the-claude-folder/)
 - [HybridCache in ASP.NET Core .NET 10 - Complete Guide](https://codewithmukesh.com/blog/hybridcache-in-aspnet-core/)
 - [Distributed Caching in ASP.NET Core with Redis .NET 10 - Complete Guide](https://codewithmukesh.com/blog/distributed-caching-in-aspnet-core-with-redis/)
-- [In-Memory Caching in ASP.NET Core .NET 10 - Complete Guide](https://codewithmukesh.com/blog/in-memory-caching-in-aspnet-core/)
-- [CQRS with MediatR in ASP.NET Core - Complete Guide](https://codewithmukesh.com/blog/cqrs-and-mediatr-in-aspnet-core/)<!-- BLOG-POST-LIST:END -->
+- [In-Memory Caching in ASP.NET Core .NET 10 - Complete Guide](https://codewithmukesh.com/blog/in-memory-caching-in-aspnet-core/)<!-- BLOG-POST-LIST:END -->
 
 ▶ [...more articles on codewithmukesh.com](https://codewithmukesh.com/blog/)
 
