@@ -113,7 +113,7 @@ I believe quality education should be free. These courses have helped thousands 
 - [API Key Authentication in ASP.NET Core &lpar;.NET 10&rpar; - Complete Guide](https://codewithmukesh.com/blog/api-key-authentication-aspnet-core/)
 - [20+ .NET 10 Tips from a Senior Developer - Write Better Code](https://codewithmukesh.com/blog/20-tips-from-a-senior-dotnet-developer/)
 - [Bulk Operations in EF Core 10 - Benchmarking Insert, Update, and Delete Strategies](https://codewithmukesh.com/blog/bulk-operations-efcore/)
-- [Optimistic Concurrency in EF Core 10: ASP.NET Core Web API Guide](https://codewithmukesh.com/blog/concurrency-control-optimistic-locking-efcore/)<!-- BLOG-POST-LIST:END -->
+- [Cleaning Migrations in EF Core 10 - Squash, Reset &amp; Manage History](https://codewithmukesh.com/blog/cleaning-migrations-efcore/)<!-- BLOG-POST-LIST:END -->
 
 ▶ [...more articles on codewithmukesh.com](https://codewithmukesh.com/blog/)
 
