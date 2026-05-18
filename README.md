@@ -109,11 +109,11 @@ I believe quality education should be free. These courses have helped thousands 
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding IHostedService &amp; BackgroundService in .NET 10](https://codewithmukesh.com/blog/ihostedservice-vs-backgroundservice-dotnet/)
+- [Repository Pattern in .NET 10 - Do You Really Need It?](https://codewithmukesh.com/blog/repository-pattern-do-you-really-need-it/)
 - [10 EF Core Performance Mistakes &lpar;and How to Fix Them&rpar; in .NET 10](https://codewithmukesh.com/blog/ef-core-performance-mistakes/)
 - [API Key Authentication in ASP.NET Core &lpar;.NET 10&rpar; - Complete Guide](https://codewithmukesh.com/blog/api-key-authentication-aspnet-core/)
-- [20+ .NET 10 Tips from a Senior Developer - Write Better Code](https://codewithmukesh.com/blog/20-tips-from-a-senior-dotnet-developer/)
-- [Bulk Operations in EF Core 10 - Benchmarking Insert, Update, and Delete Strategies](https://codewithmukesh.com/blog/bulk-operations-efcore/)
-- [Cleaning Migrations in EF Core 10 - Squash, Reset &amp; Manage History](https://codewithmukesh.com/blog/cleaning-migrations-efcore/)<!-- BLOG-POST-LIST:END -->
+- [20+ .NET 10 Tips from a Senior Developer - Write Better Code](https://codewithmukesh.com/blog/20-tips-from-a-senior-dotnet-developer/)<!-- BLOG-POST-LIST:END -->
 
 ▶ [...more articles on codewithmukesh.com](https://codewithmukesh.com/blog/)
 
