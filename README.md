@@ -109,11 +109,11 @@ I believe quality education should be free. These courses have helped thousands 
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Repository Pattern in .NET 10 - Do You Really Need It?](https://codewithmukesh.com/blog/repository-pattern-do-you-really-need-it/)
 - [Implementing Clean Architecture in .NET 10 - Step-by-Step Guide](https://codewithmukesh.com/blog/clean-architecture-dotnet/)
 - [Skills in Claude Code - Reusable Prompts and Workflows](https://codewithmukesh.com/blog/skills-claude-code/)
 - [Rate Limiting in ASP.NET Core &lpar;.NET 10&rpar; - Complete Guide](https://codewithmukesh.com/blog/rate-limiting-aspnet-core/)
-- [10 .NET 10 API Anti-Patterns That Break Production &lpar;And How to Fix Them&rpar;](https://codewithmukesh.com/blog/anti-patterns-to-avoid-dotnet-apis/)
-- [ASP.NET Core 10 Web API CRUD with EF Core - Complete .NET 10 Tutorial](https://codewithmukesh.com/blog/aspnet-core-webapi-crud-with-entity-framework-core-full-course/)<!-- BLOG-POST-LIST:END -->
+- [10 .NET 10 API Anti-Patterns That Break Production &lpar;And How to Fix Them&rpar;](https://codewithmukesh.com/blog/anti-patterns-to-avoid-dotnet-apis/)<!-- BLOG-POST-LIST:END -->
 
 ▶ [...more articles on codewithmukesh.com](https://codewithmukesh.com/blog/)
 
