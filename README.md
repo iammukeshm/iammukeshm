@@ -109,11 +109,11 @@ I believe quality education should be free. These courses have helped thousands 
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude Code Tutorial for Beginners - Complete 2026 Guide to AI Coding](https://codewithmukesh.com/blog/claude-code-for-beginners/)
+- [CLAUDE.md for .NET Developers - Complete Guide with Templates](https://codewithmukesh.com/blog/claude-md-mastery-dotnet/)
 - [20 Advanced Claude Code Tips for .NET Developers](https://codewithmukesh.com/blog/claude-code-tips-advanced/)
 - [FluentValidation in ASP.NET Core .NET 10 - Request Validation](https://codewithmukesh.com/blog/fluentvalidation-in-aspnet-core/)
-- [Global Exception Handling in ASP.NET Core - The Complete Guide for .NET 10](https://codewithmukesh.com/blog/global-exception-handling-in-aspnet-core/)
-- [JWT Authentication in ASP.NET Core - A Complete .NET 10 Guide](https://codewithmukesh.com/blog/jwt-authentication-in-aspnet-core/)
-- [Refresh Tokens in ASP.NET Core - A Complete .NET 10 Guide](https://codewithmukesh.com/blog/refresh-tokens-in-aspnet-core/)<!-- BLOG-POST-LIST:END -->
+- [Global Exception Handling in ASP.NET Core - The Complete Guide for .NET 10](https://codewithmukesh.com/blog/global-exception-handling-in-aspnet-core/)<!-- BLOG-POST-LIST:END -->
 
 ▶ [...more articles on codewithmukesh.com](https://codewithmukesh.com/blog/)
 
