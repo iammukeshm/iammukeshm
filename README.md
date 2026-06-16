@@ -109,11 +109,11 @@ I believe quality education should be free. These courses have helped thousands 
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Essential AWS Services Every .NET Developer Should Master in 2026](https://codewithmukesh.com/blog/essential-aws-services-for-dotnet-developers/)
 - [Working with AWS S3 using ASP.NET Core &lpar;.NET 10&rpar; - Upload, Download &amp; Delete Files](https://codewithmukesh.com/blog/working-with-aws-s3-using-aspnet-core/)
-- [CLAUDE.md for .NET Developers - Complete Guide with Templates](https://codewithmukesh.com/blog/claude-md-mastery-dotnet/)
 - [Claude Code Tutorial for Beginners - Complete 2026 Guide to AI Coding](https://codewithmukesh.com/blog/claude-code-for-beginners/)
-- [20 Advanced Claude Code Tips for .NET Developers](https://codewithmukesh.com/blog/claude-code-tips-advanced/)
-- [FluentValidation in ASP.NET Core .NET 10 - Request Validation](https://codewithmukesh.com/blog/fluentvalidation-in-aspnet-core/)<!-- BLOG-POST-LIST:END -->
+- [CLAUDE.md for .NET Developers - Complete Guide with Templates](https://codewithmukesh.com/blog/claude-md-mastery-dotnet/)
+- [20 Advanced Claude Code Tips for .NET Developers](https://codewithmukesh.com/blog/claude-code-tips-advanced/)<!-- BLOG-POST-LIST:END -->
 
 ▶ [...more articles on codewithmukesh.com](https://codewithmukesh.com/blog/)
 
