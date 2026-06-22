@@ -109,11 +109,11 @@ I believe quality education should be free. These courses have helped thousands 
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [20+ .NET 10 Best Practices &amp; Tips from a Senior Developer](https://codewithmukesh.com/blog/20-tips-from-a-senior-dotnet-developer/)
+- [IHostedService vs BackgroundService in .NET 10: Which to Use](https://codewithmukesh.com/blog/ihostedservice-vs-backgroundservice-dotnet/)
 - [Claims-Based Authorization in ASP.NET Core - A .NET 10 Guide](https://codewithmukesh.com/blog/claims-based-authorization-in-aspnet-core/)
 - [Git Worktrees in Claude Code - Run Parallel AI Sessions](https://codewithmukesh.com/blog/git-worktrees-claude-code/)
-- [FullStackHero: The Free, Open-Source .NET 10 Starter Kit](https://codewithmukesh.com/blog/introducing-fullstackhero/)
-- [RESTful API Best Practices for .NET Developers &lpar;.NET 10&rpar; – The Complete 2026 Guide to Production-Ready APIs](https://codewithmukesh.com/blog/restful-api-best-practices-for-dotnet-developers/)
-- [Role-Based Authorization in ASP.NET Core - A .NET 10 Guide](https://codewithmukesh.com/blog/role-based-authorization-in-aspnet-core/)<!-- BLOG-POST-LIST:END -->
+- [FullStackHero: The Free, Open-Source .NET 10 Starter Kit](https://codewithmukesh.com/blog/introducing-fullstackhero/)<!-- BLOG-POST-LIST:END -->
 
 ▶ [...more articles on codewithmukesh.com](https://codewithmukesh.com/blog/)
 
