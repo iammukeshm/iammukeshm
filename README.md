@@ -109,11 +109,11 @@ I believe quality education should be free. These courses have helped thousands 
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Claude Code Skill That Scaffolds My .NET Architecture](https://codewithmukesh.com/blog/claude-code-skill-scaffold-dotnet-architecture/)
 - [.NET Interview Questions: The 2026 Guide &lpar;300+ Real Questions&rpar;](https://codewithmukesh.com/blog/dotnet-interview-questions/)
 - [30 EF Core Interview Questions That Actually Get Asked in 2026](https://codewithmukesh.com/blog/efcore-interview-questions/)
-- [RESTful API Best Practices for .NET Developers &lpar;.NET 10&rpar; – The Complete 2026 Guide to Production-Ready APIs](https://codewithmukesh.com/blog/restful-api-best-practices-for-dotnet-developers/)
-- [Policy-Based Authorization in ASP.NET Core - A .NET 10 Guide](https://codewithmukesh.com/blog/policy-based-authorization-in-aspnet-core/)<!-- BLOG-POST-LIST:END -->
+- [30 LINQ Interview Questions That Actually Get Asked in 2026](https://codewithmukesh.com/blog/linq-interview-questions/)
+- [I Built a Claude Code Skill That Scaffolds My .NET Architecture](https://codewithmukesh.com/blog/claude-code-skill-scaffold-dotnet-architecture/)
+- [RESTful API Best Practices for .NET Developers &lpar;.NET 10&rpar; – The Complete 2026 Guide to Production-Ready APIs](https://codewithmukesh.com/blog/restful-api-best-practices-for-dotnet-developers/)<!-- BLOG-POST-LIST:END -->
 
 ▶ [...more articles on codewithmukesh.com](https://codewithmukesh.com/blog/)
 
