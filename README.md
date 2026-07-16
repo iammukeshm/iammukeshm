@@ -109,11 +109,11 @@ I believe quality education should be free. These courses have helped thousands 
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Custom User Management in ASP.NET Core Web API &lpar;.NET 10&rpar;](https://codewithmukesh.com/blog/custom-user-management-in-aspnet-core/)
 - [Fastest Way to Bulk Insert Thousands of Rows in EF Core](https://codewithmukesh.com/blog/ef-core-bulk-insert/)
 - [Identity API Endpoints in ASP.NET Core: When to Use Them &lpar;.NET 10&rpar;](https://codewithmukesh.com/blog/identity-endpoints-aspnet-core/)
 - [EF Core Interceptors: The Complete Guide &lpar;.NET 10&rpar;](https://codewithmukesh.com/blog/ef-core-interceptors/)
-- [Claude Code Prompts for .NET Developers - A Copy-Paste Library for Every Workflow Stage](https://codewithmukesh.com/blog/claude-code-prompts-dotnet/)
-- [Bulk Operations in EF Core 10 - Benchmarking Insert, Update, and Delete Strategies](https://codewithmukesh.com/blog/bulk-operations-efcore/)<!-- BLOG-POST-LIST:END -->
+- [Claude Code Prompts for .NET Developers - A Copy-Paste Library for Every Workflow Stage](https://codewithmukesh.com/blog/claude-code-prompts-dotnet/)<!-- BLOG-POST-LIST:END -->
 
 ▶ [...more articles on codewithmukesh.com](https://codewithmukesh.com/blog/)
 
