@@ -109,11 +109,11 @@ I believe quality education should be free. These courses have helped thousands 
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [When to Use Microservices &lpar;And When Not To&rpar;](https://codewithmukesh.com/blog/when-to-use-microservices/)
 - [Health Checks in ASP.NET Core: A Complete Guide &lpar;.NET 10&rpar;](https://codewithmukesh.com/blog/health-checks-in-aspnet-core/)
 - [How I Use dotnet-claude-kit for Senior-Level .NET with Claude Code](https://codewithmukesh.com/blog/dotnet-claude-kit-guide/)
 - [30 ASP.NET Core Interview Questions That Actually Get Asked in 2026](https://codewithmukesh.com/blog/aspnet-core-interview-questions/)
-- [Second-Level Caching in EF Core 10: The Complete Guide](https://codewithmukesh.com/blog/ef-core-second-level-caching/)
-- [I Deployed a .NET App to DigitalOcean with Dokploy](https://codewithmukesh.com/blog/deploy-dotnet-app-to-digitalocean-with-dokploy/)<!-- BLOG-POST-LIST:END -->
+- [Second-Level Caching in EF Core 10: The Complete Guide](https://codewithmukesh.com/blog/ef-core-second-level-caching/)<!-- BLOG-POST-LIST:END -->
 
 ▶ [...more articles on codewithmukesh.com](https://codewithmukesh.com/blog/)
 
