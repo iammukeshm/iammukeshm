@@ -109,11 +109,11 @@ I believe quality education should be free. These courses have helped thousands 
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [API Versioning in ASP.NET Core - The .NET 10 Guide](https://codewithmukesh.com/blog/api-versioning-in-aspnet-core/)
 - [Build Your First MCP Server in C# with the Official SDK](https://codewithmukesh.com/blog/build-mcp-server-csharp/)
 - [35 Senior .NET Developer Interview Questions That Actually Get Asked in 2026](https://codewithmukesh.com/blog/senior-dotnet-developer-interview-questions/)
 - [When to Use Microservices &lpar;And When Not To&rpar;](https://codewithmukesh.com/blog/when-to-use-microservices/)
-- [Health Checks in ASP.NET Core: A Complete Guide &lpar;.NET 10&rpar;](https://codewithmukesh.com/blog/health-checks-in-aspnet-core/)
-- [How I Use dotnet-claude-kit for Senior-Level .NET with Claude Code](https://codewithmukesh.com/blog/dotnet-claude-kit-guide/)<!-- BLOG-POST-LIST:END -->
+- [Health Checks in ASP.NET Core: A Complete Guide &lpar;.NET 10&rpar;](https://codewithmukesh.com/blog/health-checks-in-aspnet-core/)<!-- BLOG-POST-LIST:END -->
 
 ▶ [...more articles on codewithmukesh.com](https://codewithmukesh.com/blog/)
 
