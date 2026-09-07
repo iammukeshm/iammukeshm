@@ -109,11 +109,11 @@ I believe quality education should be free. These courses have helped thousands 
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Stop Your AI Agent Picking the Wrong .NET Libraries](https://codewithmukesh.com/blog/ai-agent-nuget-package-guardrails-dotnet/)
 - [AutoMapper vs Mapster vs Manual Mapping in .NET 10 - Pick the Right One in 2026](https://codewithmukesh.com/blog/automapper-vs-mapster-vs-manual-mapping-dotnet/)
 - [30 .NET Microservices Interview Questions That Actually Get Asked in 2026](https://codewithmukesh.com/blog/microservices-interview-questions-dotnet/)
 - [How to Convert HTML to PDF in C# &lpar;.NET 10 Guide&rpar;](https://codewithmukesh.com/blog/generate-pdf-invoices-aspnet-core-web-api/)
-- [API Versioning in ASP.NET Core - The .NET 10 Guide](https://codewithmukesh.com/blog/api-versioning-in-aspnet-core/)
-- [Build Your First MCP Server in C# with the Official SDK](https://codewithmukesh.com/blog/build-mcp-server-csharp/)<!-- BLOG-POST-LIST:END -->
+- [API Versioning in ASP.NET Core - The .NET 10 Guide](https://codewithmukesh.com/blog/api-versioning-in-aspnet-core/)<!-- BLOG-POST-LIST:END -->
 
 ▶ [...more articles on codewithmukesh.com](https://codewithmukesh.com/blog/)
 
