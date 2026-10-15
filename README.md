@@ -109,11 +109,11 @@ I believe quality education should be free. These courses have helped thousands 
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MongoDB Agent Skills: What They Fix for .NET Developers](https://codewithmukesh.com/blog/mongodb-agent-skills-dotnet/)
 - [RAG in ASP.NET Core &lpar;.NET 10&rpar;: A Chat API That Remembers](https://codewithmukesh.com/blog/rag-in-aspnet-core/)
 - [Result Pattern in C# and .NET 10 - When to Use, When to Skip](https://codewithmukesh.com/blog/result-pattern-dotnet/)
 - [30 .NET System Design Interview Questions That Actually Get Asked in 2026](https://codewithmukesh.com/blog/dotnet-system-design-interview-questions/)
-- [CORS in ASP.NET Core &lpar;.NET 10&rpar; - Cross-Origin Done Right](https://codewithmukesh.com/blog/cors-in-aspnet-core/)
-- [Filtering EF Core by a Large List: The 2,100 Parameter Wall](https://codewithmukesh.com/blog/ef-core-contains-large-list/)<!-- BLOG-POST-LIST:END -->
+- [CORS in ASP.NET Core &lpar;.NET 10&rpar; - Cross-Origin Done Right](https://codewithmukesh.com/blog/cors-in-aspnet-core/)<!-- BLOG-POST-LIST:END -->
 
 ▶ [...more articles on codewithmukesh.com](https://codewithmukesh.com/blog/)
 
