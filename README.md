@@ -109,11 +109,11 @@ I believe quality education should be free. These courses have helped thousands 
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [HttpClient in .NET 10 - IHttpClientFactory and Resilience](https://codewithmukesh.com/blog/httpclient-ihttpclientfactory-resilience-dotnet/)
 - [Vertical Slice vs Clean Architecture in .NET 10 - What I Use](https://codewithmukesh.com/blog/clean-architecture-vs-vertical-slice-architecture/)
 - [REA &lpar;Reverse Engineer Anything&rpar;: What It Is, How I Used It](https://codewithmukesh.com/blog/reverse-engineer-anything-rea/)
 - [Claude Fable 5.1 vs GPT-6 Astra: HTML to PDF in C# &lpar;.NET 10&rpar;](https://codewithmukesh.com/blog/claude-vs-chatgpt-html-to-pdf-csharp/)
-- [MongoDB Agent Skills: What They Fix for .NET Developers](https://codewithmukesh.com/blog/mongodb-agent-skills-dotnet/)
-- [RAG in ASP.NET Core &lpar;.NET 10&rpar;: A Chat API That Remembers](https://codewithmukesh.com/blog/rag-in-aspnet-core/)<!-- BLOG-POST-LIST:END -->
+- [MongoDB Agent Skills: What They Fix for .NET Developers](https://codewithmukesh.com/blog/mongodb-agent-skills-dotnet/)<!-- BLOG-POST-LIST:END -->
 
 ▶ [...more articles on codewithmukesh.com](https://codewithmukesh.com/blog/)
 
